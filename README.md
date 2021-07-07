@@ -1,1 +1,1 @@
-# APrioori-And-SON-algorithm
+# APriori-And-SON-algorithm
